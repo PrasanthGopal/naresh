@@ -11,10 +11,10 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
+:q!
+|2,0,1684001998,,"q!"
 :wq!
 |2,0,1683996927,,"wq!"
-:q!
-|2,0,1683993454,,"q!"
 
 # Search String History (newest to oldest):
 
@@ -27,18 +27,30 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/naresh/.git/MERGE_MSG
-|4,48,1,0,1683996927,"~/naresh/.git/MERGE_MSG"
+'0  1  0  ~/config
+|4,48,1,0,1684001998,"~/config"
 '1  1  0  ~/naresh/.git/MERGE_MSG
-|4,49,1,0,1683993454,"~/naresh/.git/MERGE_MSG"
+|4,49,1,0,1683996927,"~/naresh/.git/MERGE_MSG"
+'2  1  0  ~/naresh/.git/MERGE_MSG
+|4,50,1,0,1683993454,"~/naresh/.git/MERGE_MSG"
 
 # Jumplist (newest first):
+-'  1  0  ~/config
+|4,39,1,0,1684001998,"~/config"
+-'  1  0  ~/naresh/.git/MERGE_MSG
+|4,39,1,0,1683996927,"~/naresh/.git/MERGE_MSG"
 -'  1  0  ~/naresh/.git/MERGE_MSG
 |4,39,1,0,1683996927,"~/naresh/.git/MERGE_MSG"
 -'  1  0  ~/naresh/.git/MERGE_MSG
 |4,39,1,0,1683993454,"~/naresh/.git/MERGE_MSG"
+-'  1  0  ~/naresh/.git/MERGE_MSG
+|4,39,1,0,1683993454,"~/naresh/.git/MERGE_MSG"
 
 # History of marks within files (newest to oldest):
+
+> ~/config
+	*	1684001995	0
+	"	1	0
 
 > ~/naresh/.git/MERGE_MSG
 	*	1683996923	0
